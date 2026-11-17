@@ -32,4 +32,4 @@ Sur [localhost:5000](http://127.0.0.1:5000/), chercher **jardin**. L’applicati
 
 La qualité des champs dépend du texte OCR. L’exemple du jardin montre un cas où l’autorité émettrice demande une relecture.
 
-[Projet dans le portfolio](https://kajan94.github.io/#diplomaatique)
+[Projet dans le portfolio](https://kajan94.github.io/Portefolio/#diplomaatique)
