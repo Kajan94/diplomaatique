@@ -17,10 +17,16 @@ Le test vérifie les deux identifiants d’arrêté et la répartition des artic
 
 ### Consulter le résultat dans le navigateur
 
+Bibliothèque à installer : **Flask 3.1.3**, pour l’interface web. L’extraction utilise uniquement les modules fournis avec Python.
+
+Depuis un terminal à la racine du dépôt :
+
 ~~~sh
 python -m pip install -r requirements.txt
 python app.py
 ~~~
+
+Sur macOS ou Linux, utiliser `python3` à la place de `python` si nécessaire.
 
 Sur [localhost:5000](http://127.0.0.1:5000/), chercher **jardin**. L’application indexe les JSON générés dans `output/`.
 
